@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "996498037324",
+    "project_id": "checklist-9ee27",
+    "storage_bucket": "checklist-9ee27.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:996498037324:android:d1de172032dca015f772e9",
+        "android_client_info": {
+          "package_name": "com.moo.checklist"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "996498037324-mkdcih4305tidfcigltt39e9d38iuggk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.moo.checklist",
+            "certificate_hash": "879e14882688955fa73e7885b022a81b1a9e4148"
+          }
+        },
+        {
+          "client_id": "996498037324-c0uisbsgtb6tlkics56nupdq8rjg6glt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "REDACTED"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "996498037324-c0uisbsgtb6tlkics56nupdq8rjg6glt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
